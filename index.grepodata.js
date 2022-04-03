@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name                Grepolis Auto send grepodata
-// @version             1.0.6
-// @author              dx droni <mrdroonix@gmail.com>
+// @version             1.0.7
+// @author              Nebouh
 // @updateURL           https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.grepodata.js
 // @downloadURL         https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.grepodata.js
 // @description         Utility Grepolis script that auto send report grepodata.
 // @include             http://*.grepolis.com/game/*
 // @include             https://*.grepolis.com/game/*
 // @exclude             view-source://*
-// @copyright           2022+, dx droni, update by Nebouh
+// @copyright           2022+, Nebouh
 // @grant               none
 // ==/UserScript==
 
