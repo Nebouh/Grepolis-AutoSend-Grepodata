@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                Grepolis Auto send grepodata
-// @version             1.0.7
+// @version             1.0.8
 // @author              Nebouh
 // @updateURL           https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.user.js
 // @downloadURL         https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.user.js
