@@ -2,7 +2,6 @@
 // @name                Grepolis Auto send grepodata
 // @version             1.0.6
 // @author              dx droni <mrdroonix@gmail.com>
-// @update				Nebouh
 // @updateURL           https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.grepodata.js
 // @downloadURL         https://github.com/Nebouh/Grepolis-AutoSend-Grepodata/raw/main/index.grepodata.js
 // @description         Utility Grepolis script that auto send report grepodata.
